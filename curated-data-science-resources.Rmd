@@ -26,3 +26,20 @@ Link to resource: [add link here]
 ### Advice on how to use
 
 - 2-4 sentences providing advice on how to use the resource. For an R package, this could be tips on how to get started. For articles/blogs (or resources like these), this could be instructions on where to begin to read (or how to navigate the resource).
+
+## Discovering Statistics with R by Andy Field, Jeremy Miles, and Zoe Field
+
+Link to resource: https://www.discoveringstatistics.com/books/discovering-statistics-using-r/
+Kristin E. Schrader
+
+### What this resource is
+
+- This book provides an overview of common statistical methods and how to do them in R. It give an overview of broad statistical concepts, as well as instructions for using R. Then, it provides chapters by category (like ANOVA or Multi-level Models), with informatio about the concept and instructions in R. It also gives the names of packages!
+
+### Who will find this resource helpful
+
+- This is helpful for someone who has a basic understanding of R and statistics. It may be a bit advanced for a complete beginner, but if you know some basics, it can help you bridge the gap between knowing what you want to do and how to do it in R. 
+
+### Advice on how to use
+
+- If you have the time, you could read this book cover to cover and use the student resources (avaiable online at: https://studysites.sagepub.com/dsur/study/default.htm) to teach yourself a lot. But, more realistically, you might use this as a reference where you know what topic you are interested in and use this book to get some guidance on how to implement the test/concept you want to do. 
